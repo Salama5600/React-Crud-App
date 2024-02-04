@@ -1,0 +1,15 @@
+.container{
+    padding: 45px;
+}
+
+.container h2{
+    margin-bottom: 50px;
+}
+
+.tableBox{
+    width: 100%;
+}
+
+.AddProducts form{
+    width: 500px;
+}
